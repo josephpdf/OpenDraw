@@ -6,12 +6,12 @@ El nombre "OpenDraw" hace referencia a los cuadros de competencia (“draws”) 
 
 ## Contenido
 
-- [Descripción del Proyecto](docs/descripcion.md)
-- [Justificación](docs/justificacion.md)
-- [Objetivos](docs/objetivos.md)
-- [Alcance Inicial](docs/alcance-inicial.md)
-- [Visión a Futuro](docs/vision-futuro.md)
-- [Análisis de Mercado y Competencia](docs/analisis-mercado.md)
+- [Descripción del Proyecto](docs/documentacion.md)
+- [Justificación](docs/documentacion.md#justificación)
+- [Objetivos](docs/documentacion.md#objetivos)
+- [Alcance Inicial](docs/documentacion.md#alcance-inicial)
+- [Visión a Futuro](docs/documentacion.md#visión-a-futuro)
+- [Análisis de Mercado y Competencia](docs/documentacion.md#análisis-de-mercado-y-competencia)
 
 ---
 
